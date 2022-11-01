@@ -25,7 +25,7 @@ summary: 连接客户后，查看云计算成本分析，深入了解过去，�
 . 查看成本分析，深入了解您的计算成本。
 
 
-image:screenshot_compute_dashboard.gif["显示 Cloud Manager 中 \" 成本分析 \" 页面的屏幕截图。此页面包含以下文本中所述的信息。"]
+image:screenshot_compute_dashboard.gif["显示BlueXP中\"成本分析\"页面的屏幕截图。此页面包含以下文本中所述的信息。"]
 
 月至今成本:: 从当月月初到目前的工作负载总成本。
 预计成本:: 根据对使用模式的分析得出的月底预测成本。
