@@ -1,6 +1,6 @@
 ---
 settings:
-  name: Compute
+  name: BlueXP cloud ops
   platform: cloud
   internal:
     pdf_enabled: true
@@ -11,13 +11,13 @@ settings:
   langs: zh-cn,us-en,ja-jp,ko-kr,zh-tw,de-de,es-es,fr-fr
 sidebar:
   entries:
-  - title: 计算文档
+  - title: BlueXP Cloud操作文档
     url: "/index.html"
   - title: 发行说明
     url: "/whats-new.html"
   - title: 入门
     entries:
-    - title: 了解计算服务
+    - title: 了解BlueXP云操作
       url: "/concept-compute.html"
     - title: 连接您的 AWS 帐户
       url: "/task-getting-started-compute.html"
@@ -35,11 +35,11 @@ homepage:
   tiles:
   - title: 入门
     links:
-    - title: 了解计算服务
+    - title: 了解BlueXP云操作
       url: concept-compute.html
     - title: 连接您的 AWS 帐户
       url: task-getting-started-compute.html
-  - title: 使用计算服务
+  - title: 使用BlueXP云操作
     links:
     - title: 分析计算成本
       url: task-analyze-costs.html
