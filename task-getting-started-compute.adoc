@@ -26,7 +26,7 @@ summary: 完成几个步骤，从 Spot 的 Cloud Analyzer 中深入分析您的�
 .. 运行 CloudFormation 模板。
 .. 粘贴 Spot RoleARN 。
 +
-https://help.spot.io/cloud-analyzer/connect-your-aws-account-2/["查看有关这些步骤的更多详细信息"^]。
+https://docs.spot.io/connect-your-cloud-provider/first-account/?id=connect-aws["查看有关这些步骤的更多详细信息"^]。
 
 +
 image:screenshot_compute_add_account.gif["显示连接页面上每个可用字段的屏幕截图。"]

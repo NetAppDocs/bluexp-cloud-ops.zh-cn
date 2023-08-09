@@ -45,7 +45,7 @@ image:screenshot_compute_dashboard.gif["显示BlueXP中\"成本分析\"页面的
 排名靠前的 AWS 帐户:: 这是一个条形图，按成本显示您排名前十位的客户。此图基于过去 30 天的支出活动。
 
 
-https://help.spot.io/cloud-analyzer/cost-analysis/["了解有关 Spot Cloud Analyzer 中的 " 成本分析 " 页面的更多信息"^]。
+https://docs.spot.io/cloud-analyzer/cost-analysis["了解有关 Spot Cloud Analyzer 中的 " 成本分析 " 页面的更多信息"^]。
 
 
 
@@ -60,5 +60,5 @@ https://help.spot.io/cloud-analyzer/cost-analysis/["了解有关 Spot Cloud Anal
 image:screenshot_compute_dashboard_spot.gif["显示 Spot Cloud Analyzer 中的 \" 成本分析 \" 页面的屏幕截图。"]
 
 * https://spot.io/products/cloud-analyzer/["查看 Cloud Analyzer 的产品页面，了解有关其功能的更多信息"^]
-* https://help.spot.io/cloud-analyzer/["查看有关 Spot 的文档，以获取有关使用 Cloud Analyzer 的帮助"^]
+* https://docs.spot.io/cloud-analyzer/["查看有关 Spot 的文档，以获取有关使用 Cloud Analyzer 的帮助"^]
 
