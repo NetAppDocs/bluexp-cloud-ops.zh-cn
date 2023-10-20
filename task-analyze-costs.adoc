@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-analyze-costs.html 
 keywords: analyze costs, compute costs, projected costs, savings, cloud analyzer 
-summary: 连接客户后，查看云计算成本分析，深入了解过去，当前和未来的云成本。 
+summary: 连接帐户后、您可以直接从BlueXP查看成本分析、然后单击链接从Cloud Analyzer获取完整分析。 
 ---
 = 分析计算成本
 :hardbreaks:
@@ -14,11 +14,13 @@ summary: 连接客户后，查看云计算成本分析，深入了解过去，�
 
 
 [role="lead"]
-连接帐户后，查看云计算成本分析，深入了解过去，当前和未来的云成本。
+连接帐户后、您可以直接从BlueXP查看成本分析、然后单击链接从Cloud Analyzer获取完整分析。
 
 
 
 == 查看成本分析
+
+查看云计算成本分析、深入了解过去、当前和未来的云成本。
 
 .步骤
 . 单击*扩展>云操作*。
