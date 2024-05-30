@@ -1,0 +1,25 @@
+---
+indexpage:
+  title: BlueXP云操作文档
+  summary: 查看云计算支出的成本分析、并确定BlueXP可能节省的成本。
+  keywords: bluexp-family, bluexp, documentation, cloud
+  lead: 查看云计算支出的成本分析、并确定BlueXP可能节省的成本。
+  tiles:
+  - title: 入门
+    links:
+    - title: 了解BlueXP云操作
+      url: concept-compute.html
+    - title: 连接您的 AWS 帐户
+      url: task-getting-started-compute.html
+  - title: 使用BlueXP云操作
+    links:
+    - title: 分析计算成本
+      url: task-analyze-costs.html
+  - title: 博客社区
+    links:
+    - title: NetApp 社区
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: BlueXP博客
+      url: https://cloud.netapp.com/blog
+    - title: 云网络研讨会
+      url: https://cloud.netapp.com/events
