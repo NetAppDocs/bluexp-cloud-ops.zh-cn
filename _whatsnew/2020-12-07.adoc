@@ -1,0 +1,11 @@
+= 在 Cloud Manager 和 Spot 之间导航
+:allow-uri-read: 
+
+
+
+
+=== 在 Cloud Manager 和 Spot 之间导航
+
+现在，您可以更轻松地在 Cloud Manager 和 Spot 之间导航。
+
+通过 Spot 中的一个新的 * 存储操作 * 部分，您可以直接导航到 Cloud Manager 。完成后，您可以从 Cloud Manager 中的 * 计算 * 选项卡返回到 Spot 。
