@@ -10,4 +10,4 @@
 
 https://docs.netapp.com/us-en/bluexp-cloud-ops/concept-compute.html["了解有关计算服务的更多信息"]。
 
-image:screenshot_compute_dashboard.gif["显示 Cloud Manager 中 \" 成本分析 \" 页面的屏幕截图。"]
+image:https://raw.githubusercontent.com/NetAppDocs/bluexp-cloud-ops/main/media/screenshot_compute_dashboard.gif["显示 Cloud Manager 中 \" 成本分析 \" 页面的屏幕截图。"]
